@@ -1,2 +1,2 @@
 Hello World!
-Welcome to Git Practice.
+Welcome to Git Practice. in next session we wil learn commit command.
